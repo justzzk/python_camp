@@ -1,0 +1,7 @@
+dic_list=[
+          {'name':'albert','age':18,'sex':'male'},
+          {'name':'alex','age':73,'sex':'male'},
+          {'name':'alex','age':20,'sex':'female'},
+          {'name':'albert','age':18,'sex':'male'},
+          {'name':'albert','age':18,'sex':'male'}
+]

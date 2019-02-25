@@ -1,0 +1,11 @@
+data=['albert',18,[2000,1,1]]
+name=data[0]
+age=data[1]
+birth_year=data[2][0]
+birth_month=data[2][1]
+birth_day=data[2][2]
+print(name)
+print(age)
+print(birth_year)
+print(birth_month)
+print(birth_day)
